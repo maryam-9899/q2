@@ -5,8 +5,8 @@
 package com.mycompany.q2;
 
 /**
- *
- * 
+ *مريم العيسي
+ * 445005470
  */
 public class Q2 {
 
@@ -48,7 +48,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 1;
 
                         int index = search(arr, n, x);
 
